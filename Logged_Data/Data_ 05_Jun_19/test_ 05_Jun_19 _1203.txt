@@ -1,0 +1,10 @@
+Time 	 Pressure (barg) 	 n_excess (mmol/g) 	 n_abs (mmol/g) 
+05-Jun-19 12:03:46 	 2.007301 	 NaN 	 NaN 
+05-Jun-19 12:03:56 	 2.017091 	 NaN 	 NaN 
+05-Jun-19 12:04:00 	 2.003843 	 NaN 	 NaN 
+05-Jun-19 12:04:03 	 2.018842 	 NaN 	 NaN 
+05-Jun-19 12:04:06 	 2.015193 	 NaN 	 NaN 
+05-Jun-19 12:04:09 	 2.021330 	 NaN 	 NaN 
+05-Jun-19 12:04:12 	 2.025593 	 NaN 	 NaN 
+05-Jun-19 12:04:15 	 2.037532 	 NaN 	 NaN 
+05-Jun-19 12:04:18 	 2.042601 	 NaN 	 NaN 

@@ -1,0 +1,5 @@
+Time 	 Pressure (barg) 	 n_excess (mmol/g) 	 n_abs (mmol/g) 
+14-Jul-17 15:39:08 	 2.003470 	 -Inf 	 NaN 
+14-Jul-17 15:39:09 	 1.998343 	 -Inf 	 NaN 
+14-Jul-17 15:39:10 	 2.007637 	 -Inf 	 NaN 
+14-Jul-17 15:39:11 	 2.011930 	 -Inf 	 NaN 
